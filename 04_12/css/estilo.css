@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+}
+h2{
+    color:#43CD80;
+}
+
+.vermelho{
+    color:#8B1A1A
+}
+.azul{
+    color:#00008B;
+}
+.verde{
+    color:#008B00;
+}
+
+table, th, td, tr{
+    border: 1px solid #008B00;
+    border-collapse: collapse;
+}
+.violeta{
+    background-color: violet;
+}
+.saudacao{
+    color:red;
+    text-align: center;
+}
