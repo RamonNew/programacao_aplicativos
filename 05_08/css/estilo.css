@@ -28,3 +28,7 @@
 .azul{
     background-color: blue;
 }
+
+#listaCarros, th, td{
+    border: 1px solid black;
+}
