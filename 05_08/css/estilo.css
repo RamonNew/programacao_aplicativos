@@ -32,3 +32,26 @@
 #listaCarros, th, td{
     border: 1px solid black;
 }
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#titulo{
+    text-align: center;
+}
+
+tr th{
+    color: white;
+    background-color: gray;
+}
+
+tr:nth-last-child(even){
+    background-color: rgb(153, 152, 152);
+}
+
+button{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
